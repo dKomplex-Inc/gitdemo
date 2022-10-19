@@ -1,0 +1,18 @@
+Helpful Git Links
+=================
+
+Official Git Documentation:
+https://git-scm.com/docs
+
+Curated Git Resources:
+https://git-scm.com/doc/ext
+
+How to Write a Git Commit Message:
+https://cbea.ms/git-commit/
+
+Make Atomic Git Commits:
+https://www.aleksandrhovhannisyan.com/blog/atomic-git-commits/
+
+State of Secrets Report 2022:
+https://www.gitguardian.com/state-of-secrets-sprawl-report-2022
+
